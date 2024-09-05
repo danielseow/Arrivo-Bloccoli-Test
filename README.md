@@ -1,5 +1,5 @@
 
-# Posts and Comments Viewer - Technical Test (Arrivo)
+# Posts and Comments Viewer - Technical Test (Arrivo, Bloccoli)
 
 This project is a web application built using **Flutter** that fetches and displays posts and comments from the [JSONPlaceholder API](https://jsonplaceholder.typicode.com/). The application showcases the use of **flutter_bloc** for state management, along with pagination and search functionalities.
 
